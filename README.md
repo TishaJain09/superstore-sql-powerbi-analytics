@@ -77,4 +77,4 @@ Built with custom DAX measures (including time intelligence), a custom color the
 
 Built by [Tisha Jain] as a hands-on project to apply SQL and Power BI skills to a realistic business analytics scenario.
 
-• [Email](tj2003jain@gmail.com)
+• [tj2003jain@gmail.com]
