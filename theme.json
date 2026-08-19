@@ -1,0 +1,19 @@
+{
+  "name": "Navy Finance Pro Simple",
+  "dataColors": [
+    "#0B3954",
+    "#1B998B",
+    "#E9B44C",
+    "#5C6B73",
+    "#87A8B0",
+    "#C9ADA7",
+    "#4A4E69",
+    "#8395A7"
+  ],
+  "background": "#F7F9FB",
+  "foreground": "#2D3436",
+  "tableAccent": "#0B3954",
+  "good": "#2E7D32",
+  "neutral": "#E9B44C",
+  "bad": "#C0392B"
+}
